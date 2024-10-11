@@ -4,11 +4,11 @@
 **marganov/marganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🎓 I recently completed a Data Analytics course
 - 🌱 I’m currently learning "Mashine learning"
 - 💼 I'm open to job opportunities in Data Analytics
--->
+
 
 ## Connect with me:
 
