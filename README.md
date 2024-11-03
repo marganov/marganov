@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🎓 I recently completed a Data Analytics course
-- 🌱 I’m currently learning "Mashine learning"
+- 🌱 I’m currently learning "Mashine learning" and little QA
 - 💼 I'm open to job opportunities in Data Analytics
 
 
